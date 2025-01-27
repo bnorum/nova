@@ -1,2 +1,0 @@
-export UPDATEBOT_REVISION=96fe6b9f95b54d3431a96b76315acbf7cc8cfaca
-
